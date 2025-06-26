@@ -1,0 +1,8 @@
+{
+  "name": "com.untruereality.naughtyattributes",
+  "version": "1.0.0",
+  "displayName": "NaughtyAttributes",
+  "description": "Inspector attributes for Unity",
+  "unity": "2020.3",
+  "author": "dbrizov"
+}
